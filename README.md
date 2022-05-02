@@ -4,7 +4,7 @@
 
 # DATA UNDERSTANDING
 <pre>The dataset provided consists of 51k+ rows and 25 columns. 
-The data contains thousands of store purchases broken down by month, product type, cost, purchase address, etc.
+The data contains thousands of store purchases broken down by month,product type, cost, purchase address etc.
 </pre>
 
 # FINDINGS
